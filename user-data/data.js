@@ -69,63 +69,17 @@ export const education = [
 ];
 
 export const footer = [
-  //   {
-  //     label: "Dev Profiles",
-  //     data: [
-  //       {
-  //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-  //       },
-  //       {
-  //         text: "GitHub",
-  //         link: "https://github.com/vinaysomawat",
-  //       },
-  //       {
-  //         text: "LeetCode",
-  //         link: "https://leetcode.com/somawatvinay/",
-  //       },
-  //     ],
-  //   },
-  //   {
-  //     label: "Resources",
-  //     data: [
-  //       {
-  //         text: "Enable Dark/Light Mode",
-  //         func: "enableDarkMode()",
-  //       },
-  //       {
-  //         text: "Print this page",
-  //         func: "window.print()",
-  //       },
-  //       {
-  //         text: "Clone this page",
-  //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-  //       },
-  //     ],
-  //   },
   {
     label: "Links",
     data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
-      //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
-      //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        text: "Linkedin",
+        link: "https://www.linkedin.com/in/mohammadreza-hemmati/",
       },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://github.com/MoHemmati",
       },
     ],
-  },
-  {
-    label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
-  },
+  }
 ];
