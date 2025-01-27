@@ -13,12 +13,12 @@ export const skills = [
 
 export const experience = [
   {
-    title: "Shiprocket Private Limited",
-    duration: "September 2023 - Present",
-    subtitle: "Software Engineer",
-    details: ["Working in support and escalation team."],
-    tags: ["JavaScript", "Angular", "Bootstrap", "AngularJs"],
-    icon: "truck ",
+    title: "Dotin (Core Banking)",
+    duration: "December 2022 – January 2024",
+    subtitle: "Penetration Tester",
+    details: ["Experienced Cyber Security Professional specializing in penetration testing for web applications and network infrastructure, adept at conducting comprehensive analyses, identifying vulnerabilities aligned with OWASP Top 10 standards, and delivering actionable risk assessments and remediation strategies to enhance organizational security postures."],
+    tags: ["WebApplication", "Network"],
+    icon: " ",
   },
   {
     title: "Biofourmis India Private Limited",
