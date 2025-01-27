@@ -601,13 +601,10 @@ body.offcanvas .colorlib-nav-toggle {
 	background-position: center center;
 	background-repeat: no-repeat;
 	position: relative;
-}
-
-.author-img img {
 	border-radius: 50%; /* Makes the image circular */
 	width: 150px;  /* Optional: set image size */
 	height: 150px;  /* Optional: set image size */
-  }
+}
   
 
 .colorlib-heading {

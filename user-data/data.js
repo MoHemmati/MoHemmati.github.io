@@ -1,6 +1,6 @@
 export const bio = [
   "Hello, I'm Mohammadreza Hemmati!",
-  "I am a penetration tester with a background in computer engineering and two years of experience specializing in web application and network security. Although my academic background is in computer engineering, I have gained extensive expertise in penetration testing through hands-on work, identifying vulnerabilities and strengthening system security. I am skilled in using tools like Burp Suite, Nmap, and Metasploit, and I continuously update my knowledge of the latest security practices. Passionate about ethical hacking, I am dedicated to helping organizations improve their security posture by proactively identifying and addressing potential weaknesses.",
+  "I am a penetration tester with a background in computer engineering and two years of experience specializing in web application and network security. My academic background is in computer engineering, So i have Decided to gain extensive expertise in penetration testing through hands-on work, identifying vulnerabilities and strengthening system security. I am skilled in using tools like Burp Suite, Nmap, and Metasploit, and I continuously update my knowledge of the latest security practices. Passionate about ethical hacking, I am dedicated to helping organizations improve their security posture by proactively identifying and addressing potential weaknesses.",
 ];
 
 export const skills = [
