@@ -4,9 +4,11 @@ export const bio = [
 ];
 
 export const skills = [
-  "JavaScript, TypeScript, Angular, RxJS, NGRX/NGXS",
-  "HTML, Bootstrap, Tailwind",
-  "GitHub, Debugging, Chrome DevTools",
+  "Python: Experienced in Python, utilizing it to automate penetration testing workflows, develop custom vulnerability detection tools, and conduct in-depth analysis of web application and network security, with expertise in libraries such as Scapy, Requests, and Paramiko.",
+  "C#: Skilled in C#, utilizing it to develop and test secure .NET applications, build custom security tools, and perform in-depth code analysis to identify vulnerabilities, with expertise in creating Windows-based exploitation tools, reverse engineering .NET binaries, and simulating attack scenarios to assess application security.",
+  "Skilled in using Metasploit Framework for exploit development and vulnerability testing, Burp Suite for web application security assessments, and Nmap Scripting Engine (NSE) for advanced network scanning and automation, with experience in OWASP ZAP for comprehensive web application scanning and Impacket for network protocol analysis and exploitation.",
+  "Skilled in leveraging tools like Nessus for vulnerability scanning and compliance auditing, Wireshark for deep packet inspection, John the Ripper and Hashcat for password cracking, and Aircrack-ng for wireless security assessments, with experience in using Hydra for brute-forcing, Netcat for networking diagnostics and reverse shell crafting, SQLmap for database exploitation, and BloodHound for Active Directory environment mapping.",
+  "Expert in Python libraries such as Scapy for network packet crafting, Requests and BeautifulSoup for web scraping, Paramiko for SSH-based automation, and Pwntools for binary exploitation, with expertise in C# libraries like SharpSploit for offensive security tasks, System.Net for network programming, and Newtonsoft.Json for JSON parsing in .NET environments.",
 ];
 
 export const experience = [
