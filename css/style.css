@@ -170,8 +170,8 @@ figure figcaption {
     object-fit: contain;
 	padding: 30px;
 	border-radius: 50%; /* Makes the image circular */
-	width: 300px;  /* Optional: set image size */
-	height: 300px;  /* Optional: set image size */
+	width: 100%;  /* Optional: set image size */
+	height: 100%;  /* Optional: set image size */
 }
 #colorlib-aside h1 {
 	font-family: "Raleway", sans-serif;
