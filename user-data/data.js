@@ -1,7 +1,6 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "I’m a passionate and experienced <strong>Frontend Engineer</strong> specializing in developing dynamic web applications using Angular and React. I thrive on optimizing performance and delivering innovative, user-focused solutions.",
-  "Beyond coding, I enjoy traveling through the serene <strong>Himalayan mountains</strong> and experimenting with new recipes in the <strong>kitchen</strong>.",
+  "Hello, I'm Mohammadreza Hemmati!",
+  "I am a penetration tester with a background in computer engineering and two years of experience specializing in web application and network security. Although my academic background is in computer engineering, I have gained extensive expertise in penetration testing through hands-on work, identifying vulnerabilities and strengthening system security. I am skilled in using tools like Burp Suite, Nmap, and Metasploit, and I continuously update my knowledge of the latest security practices. Passionate about ethical hacking, I am dedicated to helping organizations improve their security posture by proactively identifying and addressing potential weaknesses.",
 ];
 
 export const skills = [
@@ -78,13 +77,6 @@ export const experience = [
   },
 ];
 
-export const trekking = [
-  '<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)',
-  '<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)',
-  '<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)',
-  '<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)',
-  '<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)',
-];
 
 export const education = [
   {
