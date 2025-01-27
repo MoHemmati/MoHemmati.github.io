@@ -17,7 +17,7 @@ export const experience = [
     duration: "December 2022 – January 2024",
     subtitle: "Penetration Tester",
     details: ["Experienced Cyber Security Professional specializing in penetration testing for web applications and network infrastructure, adept at conducting comprehensive analyses, identifying vulnerabilities aligned with OWASP Top 10 standards, and delivering actionable risk assessments and remediation strategies to enhance organizational security postures."],
-    tags: ["WebApplication", "Network"],
+    tags: ["Web Application", "Network"],
     icon: " ",
   },
   {
@@ -28,62 +28,44 @@ export const experience = [
       "Conducting in-depth investigation and analysis of security vulnerabilities and risk factors within web-based banking applications to identify systemic weaknesses and propose robust mitigation strategies."
     ],
     tags: [
-      "WebApplication", "Application Security", "Code Analysis"
+      "Web Application", "Application Security", "Code Analysis"
     ],
-    icon: "Bank",
+    icon: "",
   },
   {
-    title: "Novopay Solutions Private Limited",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "Bankino (Middle East Neo Bank)",
+    duration: "2023 - Present",
+    subtitle: "Penetration Tester",
     details: [
-      `Implemented AePS Services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements,
-            and Money transfer.`,
-      `Implemented QR Code integration for retailer wallet money loading, Clevertap events for user action tracking,
-            Freshdesk ticketing, Chatbot services, and Retailer onboarding/admin interfaces.`,
-      `Developed retailer QR code system for seamless money loading into wallets, resulting in improved user transactions.`,
-      `Achieved 70 percent code coverage of the entire application by writing unit tests for legacy code.`,
+      "As a freelance penetration tester, I specialize in identifying and mitigating security vulnerabilities in mobile applications and Progressive Web Apps (PWAs), ensuring robust protection for client systems and user data."
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "qrcode",
+    tags: ["Web Application", "Mobile Application", "PWA"],
+    icon: "",
   },
   {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    title: "Bugdasht (Bug Bounty Platform)",
+    duration: "2023 - Present",
+    subtitle: "Penetration Tester",
     details: [
-      `Developed a customer web application for social media management, supporting the advertisement domain.`,
+      "Through Bugdasht, I actively engaged in bug hunting and attack surface management (ASM), identifying vulnerabilities and securing digital assets across various bug bounty programs."
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    icon: "group",
+    tags: ["ASM", "Web Application"],
+    icon: "",
   },
 ];
 
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
-    details: [],
+    title: "B.Sc. of Computer Engineering",
+    duration: "2017 - 2022",
+    subtitle: "Shahid Beheshti University - Tehran, Iran",
+    details: ["Supervisor: Dr. Mojtaba Vahidi", "Thesis: Designing and Developing Advanced Websites for Business Introduction: A Comprehensive Approach to Digital Branding and User Engagement. Grade (A+)", "GPA: 3.15/4 (14.73/20)"],
     tags: [
-      "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+     
     ],
     icon: "graduation-cap",
-  },
-  {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
-    details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
-    icon: "book",
-  },
+  }
 ];
 
 export const footer = [
