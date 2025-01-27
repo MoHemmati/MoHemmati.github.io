@@ -60,7 +60,7 @@ export const education = [
     title: "B.Sc. of Computer Engineering",
     duration: "2017 - 2022",
     subtitle: "Shahid Beheshti University - Tehran, Iran",
-    details: ["Supervisor: Dr. Mojtaba Vahidi", "Thesis: Designing and Developing Advanced Websites for Business Introduction: A Comprehensive Approach to Digital Branding and User Engagement. Grade (A+)", "GPA: 3.15/4 (14.73/20)"],
+    details: ["Supervisor: Dr. Mojtaba Vahidi", "Thesis: Designing and Developing Advanced Websites for Business Introduction: A Comprehensive Approach to Digital Branding and User Engagement. Grade (A+)", "GPA: 3.15/4"],
     tags: [
      
     ],
